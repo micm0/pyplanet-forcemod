@@ -4,7 +4,7 @@ PyPlanet app that can force a mod url for all maps on a ManiaPlanet server.
 ## Installation
 1. Extract the `forcemod` folder at pyplanet/apps/
 2. Enable the app as usual in: pyplanet/settings/apps.py
-```"apps.mxmod"```
+```"apps.forcemod"```
 3. Restart pyplanet
 
 ## Configuration
