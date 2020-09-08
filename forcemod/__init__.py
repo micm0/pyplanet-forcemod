@@ -10,7 +10,7 @@ class ForceModApp(AppConfig):
 	"""
 	Force Mod plugin
 	"""
-	game_dependencies = ['trackmania']
+	game_dependencies = ['trackmania','trackmania_next']
 	app_dependencies = ['core.maniaplanet', 'core.trackmania']
 
 
